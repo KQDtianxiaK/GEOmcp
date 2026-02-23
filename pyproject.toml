@@ -3,7 +3,7 @@ requires = ["hatchling", "hatch-vcs"]
 build-backend = "hatchling.build"
 
 [project]
-name = "geo-mcp"
+name = "geo-mcp-sra"
 dynamic = ["version"]
 description = "An enhanced MCP server for accessing GEO data with SRA raw sequencing support"
 readme = "README.md"
