@@ -1,5 +1,5 @@
 ---
-name: geo-mcp-sra
+name: geo-mcp
 description: MCP server for accessing GEO (Gene Expression Omnibus) data with comprehensive SRA (Sequence Read Archive) raw sequencing support. Enables natural language search, metadata download, size estimation with dry-run mode, and safe FASTQ downloads with prefetch/fastq-dump integration.
 ---
 
